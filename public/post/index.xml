@@ -6,8 +6,22 @@
     <description>Recent content in Posts on Maker in Residence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Nov 2016 10:11:20 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2016 11:48:43 +0100</lastBuildDate>
     <atom:link href="http://mir.rijnieks.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Some Sketches</title>
+      <link>http://mir.rijnieks.com/post/some-sketches/</link>
+      <pubDate>Thu, 01 Dec 2016 11:48:43 +0100</pubDate>
+      
+      <guid>http://mir.rijnieks.com/post/some-sketches/</guid>
+      <description>&lt;p&gt;Yesterday I made some sketches of the projection mapping installation in the atrium of the Chester Beatty Library. I am going to use six mini-projectors and six Raspberry Pi&amp;rsquo;s which will run a data-driven visual application. Images of the various artifacts of the Chester Beatty Library collection will be used to fill the database.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;postimages/sketch-a.jpg&#34; alt=&#34;image&#34; /&gt;
+&lt;img src=&#34;postimages/sketch-c.jpg&#34; alt=&#34;image&#34; /&gt;
+&lt;img src=&#34;postimages/sketch-d.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Introduction</title>
@@ -17,7 +31,7 @@
       <guid>http://mir.rijnieks.com/post/introduction/</guid>
       <description>&lt;p&gt;Good day. This is my first post regarding my residency at the Chester Beatty Library in Dublin, Ireland. The residency starts next week and there are still a lot of things to prepare for it. During the residency I will give several Projection Mapping with the Raspberry Pi workshops and build a projection mapping installation.&lt;/p&gt;
 
-&lt;p&gt;I am very excited about the upcoming workshop at the &lt;a href=&#34;https://www.tog.ie/&#34;&gt;TOG hackerspace&lt;/a&gt; next Monday, 5 December 2016. It is going to be an introduction to the world of projection mapping through Raspberry Pi and open source software. Follow TOG to not miss detailed information about what time it is going to happen.&lt;/p&gt;
+&lt;p&gt;I am very excited about the upcoming workshop at the &lt;a href=&#34;https://www.tog.ie/&#34;&gt;TOG hackerspace&lt;/a&gt; on 12 December 2016. It is going to be an introduction to the world of projection mapping through Raspberry Pi and open source software. Follow &lt;a href=&#34;https://twitter.com/TOG_Dublin&#34;&gt;TOG&lt;/a&gt; to not miss detailed information about what time it is going to happen.&lt;/p&gt;
 
 &lt;p&gt;All in all I am very excited about the residency. I like the concept of the Maker in Residence programme which is also about opening museum spaces for makerspace and hackerspace activities.&lt;/p&gt;
 </description>
