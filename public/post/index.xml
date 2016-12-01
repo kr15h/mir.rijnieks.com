@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Maker in Residence</title>
-    <link>http://mir.rijnieks.com/post/index.xml</link>
+    <link>http://mir.rijnieks.com/post/</link>
     <description>Recent content in Posts on Maker in Residence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Krisjanis Rijnieks 2016</copyright>
     <lastBuildDate>Mon, 28 Nov 2016 10:11:20 +0100</lastBuildDate>
     <atom:link href="http://mir.rijnieks.com/post/index.xml" rel="self" type="application/rss+xml" />
     

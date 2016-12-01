@@ -1,10 +1,12 @@
 languageCode = "en-us"
 title = "Maker in Residence"
-description = "Krisjanis Rijnieks as Maker in Residence at the Chester Beatty Library in Dublin, Ireland"
 baseurl = "http://mir.rijnieks.com/"
+
 theme = "hyde"
 
 [params]
-  description = "Krisjanis Rijnieks as Maker in Residence at the Chester Beatty Library in Dublin, Ireland"
-  author = "Krisjanis Rijnieks"
-  copyright = "© Krisjanis Rijnieks 2016"
+
+description = "Krisjanis Rijnieks is Maker in Residence at the Chester Beatty Library in Dublin, Ireland. This blog documents the residency from 5 to 18 December 2016."
+copyright = "© Krisjanis Rijnieks 2016" 
+author = "Krisjanis Rijnieks"
+ogimage = "maker-in-residence-facebook.png"

@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml"{{with .Site.LanguageCode}} xml:lang="{{.}}" lang="{{.}}"{{end}}>
 <head>
   <link href="http://gmpg.org/xfn/11" rel="profile">
+
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   {{ .Hugo.Generator }}
 
@@ -13,6 +14,13 @@
   {{ else }}
   <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
   {{ end }}
+
+  <!-- Facebook -->
+  <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.ogimage }}"/>
+  <meta property="og:title" content="{{ .Site.Title }}"/>
+  <meta property="og:description" content="{{ .Site.Params.description }}"/>
+  <meta property="og:url" content="{{ .Site.BaseURL }}"/>
+  <meta property="og:type" content="blog"/>
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/poole.css">
