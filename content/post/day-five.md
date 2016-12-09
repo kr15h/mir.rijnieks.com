@@ -7,7 +7,7 @@ draft = false
 
 Day five turned out to be full of practical tasks. It started with an hour of making a last minute flyer for the Creative Lab for Teens initiative at the Chester Beatty Library. Someone had promised Jenny to make it, but changed her mind in the last minute. So I contributed my graphic design skills to make a simple flyer. 
 
-![image](postimages/teens-club-flyer.jpg)
+![image](/postimages/teens-club-flyer.jpg)
 
 The day went on with preparing the workshop for tomorrow. The main challenge was to get the collection images out from the library digitization database for them to be used as textures during the workshop. It was not possible to get the source files by using the public access computer, I had to ask Shauna for help. With her help we managed to solve it quickly. 
 
@@ -15,7 +15,7 @@ Working with the images reminded me that whenever big file sizes are involved, t
 
 A preview of the projection mapping installation that I have to do next week had to be created. Armed with the fresh images from the library database and some preliminary sketches I managed to do it. Quickly. 
 
-![image](postimages/cbl-mapping-visuals.jpg)
+![image](/postimages/cbl-mapping-visuals.jpg)
 
 Along the way I had thoughts. During the day I was asking Jenny whether the library has any kind of graphic design guidelines to follow when designing handouts. As far as I understood, there are, but nobody takes them seriously. That made me thinking even more. A museum should have a permanent graphic designer position that would take care of the consistency of any kind of visual and text material that leaves the house. But there is not. One can not expect pro graphic designer skills from people related to other fields. Software alone (especially office software) won't do.
 

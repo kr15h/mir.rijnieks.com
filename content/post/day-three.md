@@ -13,7 +13,7 @@ At 12:30 we went to the Silk Road Cafe again to have lunch with the trustees of 
 
 The rest of the day I spent at the reference library, iterating on the projection mapping installation visual solution and creating visuals for the workshop at the TOG Hackerspace next Monday 12 Dec 2016. Jenny was updating me occasionally about changes. She sent a kind email to the Latvian embassy in Dublin (since my nationality is Latvian) inviting the local Latvian community to join the opening of the projection mapping installation next Friday 16 Dec 2016.
 
-![Reference Library](postimages/reference-library.jpg)
+![Reference Library](/postimages/reference-library.jpg)
 
 In addition to the scheduled part of the day I had discussions and thoughts about the creative process in museums and creative spaces such as makerspaces, hackerspaces and fab labs. Jenny told me about her experience at the Museomix open museum workshop where people with different backgrounds came together for a three-day workshop to explore and create something new for a museum in France. From what Jenny told me I extracted that people involved with museums tend to think in a linear way. They make a plan and try to execute it from beginning to end without accepting the possibility for something to change in the middle of the process. It is different with makers–they accept and expect change in every step they make. In terms of creating prototypes for anything in an efficient way, in limited amount of time, the latter works if the involved stakeholders have a flexible mindset.
 

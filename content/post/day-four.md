@@ -16,9 +16,9 @@ TOG Dublin Hackerspace launched the [Eventbrite site](https://www.tog.ie/2016/12
 
 After lunch we went over the equipment needed for the projection mapping workshops at the Chester Beatty Library on Saturday and Sunday. We also checked the lecture room the workshops are going to take place, synchronized with the Library Security, went over child protection guidelines and specified tasks to be still done before the workshop days.
 
-![Equipment Test](postimages/equipment-test.jpg)
-![Child Protection](postimages/child-protection.jpg)
+![Equipment Test](/postimages/equipment-test.jpg)
+![Child Protection](/postimages/child-protection.jpg)
 
 For the last part of the day I am here, at the Chocolate Factory, enjoying the empty studio room with a chair, desk and a lamp. Writing this blog post. Feeling grateful about all the good news I got today. There are still a couple of small things left before I end the day and I am going to get them done. Now.
 
-![Chocolate Factory Evening](postimages/chocolate-factory-evening.jpg)
+![Chocolate Factory Evening](/postimages/chocolate-factory-evening.jpg)
