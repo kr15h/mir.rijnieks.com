@@ -6,8 +6,34 @@
     <description>Recent content on Maker in Residence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Dec 2016 18:05:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Dec 2016 19:18:34 +0000</lastBuildDate>
     <atom:link href="http://mir.rijnieks.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Day Five</title>
+      <link>http://mir.rijnieks.com/post/day-five/</link>
+      <pubDate>Fri, 09 Dec 2016 19:18:34 +0000</pubDate>
+      
+      <guid>http://mir.rijnieks.com/post/day-five/</guid>
+      <description>&lt;p&gt;Day five turned out to be full of practical tasks. It started with an hour of making a last minute flyer for the Creative Lab for Teens initiative at the Chester Beatty Library. Someone had promised Jenny to make it, but changed her mind in the last minute. So I contributed my graphic design skills to make a simple flyer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;postimages/teens-club-flyer.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The day went on with preparing the workshop for tomorrow. The main challenge was to get the collection images out from the library digitization database for them to be used as textures during the workshop. It was not possible to get the source files by using the public access computer, I had to ask Shauna for help. With her help we managed to solve it quickly.&lt;/p&gt;
+
+&lt;p&gt;Working with the images reminded me that whenever big file sizes are involved, the time spent on a task multiplies at least two times. Choosing, organizing and processing the images is a time consuming and repetitive task. Got it done. There were other, smaller tasks already waiting for me.&lt;/p&gt;
+
+&lt;p&gt;A preview of the projection mapping installation that I have to do next week had to be created. Armed with the fresh images from the library database and some preliminary sketches I managed to do it. Quickly.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;postimages/cbl-mapping-visuals.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Along the way I had thoughts. During the day I was asking Jenny whether the library has any kind of graphic design guidelines to follow when designing handouts. As far as I understood, there are, but nobody takes them seriously. That made me thinking even more. A museum should have a permanent graphic designer position that would take care of the consistency of any kind of visual and text material that leaves the house. But there is not. One can not expect pro graphic designer skills from people related to other fields. Software alone (especially office software) won&amp;rsquo;t do.&lt;/p&gt;
+
+&lt;p&gt;Another thing was the power of the computers and quality of the software used to navigate the digitization database. If I would imagine myself coming for the residency without my hardware and software, I would not be able to complete the tasks I did today. For digital content creation in a museum my recommendation would be to have at least one decent computer with multimedia software for image and video processing. There should be high speed external hard drives available for quick and efficient transfer of digitized files as they are good quality and good quality usually means big file sizes.&lt;/p&gt;
+
+&lt;p&gt;Still have to prepare the magic Raspberry Pi SD card for tomorrow&amp;rsquo;s workshop. Will get it done. Now.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Day Four</title>
