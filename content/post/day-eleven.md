@@ -10,9 +10,9 @@ Day eleven. A very good day. Which started with a full moon. And nice dark refle
 ![Full Moon](/postimages/full-moon.jpg) 
 ![Reflections](/postimages/reflections.jpg) 
 
-The projector arrived at the Chester Beatty before me. Which means it was already there when I arrived. The 20K ANSI lumen projector I have been mentioning in one or more of the previous posts. The possibility to drive it with a single Raspberry Pi. By not using the Raspberry Pi only as a media player, but as a projection mapping system. At last.
+The projector arrived at the Chester Beatty before me. The 20K ANSI lumen projector I have been mentioning in one or more of the previous posts. The possibility to drive it with a single Raspberry Pi. By not using the Raspberry Pi only as a media player, but as a projection mapping system.
 
-Peter, the projectionist from the Dublin Castle, did the positioning and targeting of the projector. He was very interested in the fact that Raspberry Pi can be used for almost anything including projection mapping. Peter approved the Raspberry Pi based projection mapping setup as a clever one. 
+Peter, the projectionist from the Dublin Castle, did the positioning and targeting of the projector. He was very interested in the fact that Raspberry Pi can be used for almost anything including projection mapping. Peter approved the Raspberry Pi based projection mapping setup and evaluated it as a clever one. 
 
 ![Projector setup](/postimages/projector-setup.jpg) 
 ![Peter and the Raspberry Pi](/postimages/peter-and-the-raspberry.jpg)
@@ -30,4 +30,4 @@ The other part of the day I spend improving on code. It usually works like this.
 
 It seemed that everybody was sattisfied with the result. People got twice as friendly and it was time for the interview part of a movie the Chester Beatty Library is making for the Maker in Residence program. Looking forward to see it. 
 
-Now. Some preparations for tomorrow. I want to add more depth to the existing solution as right now the transitions and movement of the image can be characterized as aggressive whish I do not want to be so. See you tomorrow at the Chester Beatty Library at 18:00 for the opening of the installation and one shalt see.
+Now. Some preparations for tomorrow. I want to add more depth to the existing solution as right now the transitions and movement of the image can be characterized as aggressive whitch I do not want to be so. See you tomorrow at the Chester Beatty Library at 18:00 for the opening of the installation and one shalt see.
