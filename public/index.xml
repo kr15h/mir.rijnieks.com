@@ -6,8 +6,43 @@
     <description>Recent content on Maker in Residence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Dec 2016 23:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Dec 2016 20:38:47 +0000</lastBuildDate>
     <atom:link href="http://mir.rijnieks.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Day Eleven</title>
+      <link>http://mir.rijnieks.com/post/day-eleven/</link>
+      <pubDate>Thu, 15 Dec 2016 20:38:47 +0000</pubDate>
+      
+      <guid>http://mir.rijnieks.com/post/day-eleven/</guid>
+      <description>&lt;p&gt;Day eleven. A very good day. Which started with a full moon. And nice dark reflections. Did not hear any wolves though. Or maybe my mind was clearing with a much lower pace this morning and I missed them.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mir.rijnieks.com/postimages/full-moon.jpg&#34; alt=&#34;Full Moon&#34; /&gt;
+&lt;img src=&#34;http://mir.rijnieks.com/postimages/reflections.jpg&#34; alt=&#34;Reflections&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The projector arrived at the Chester Beatty before me. Which means it was already there when I arrived. The 20K ANSI lumen projector I have been mentioning in one or more of the previous posts. The possibility to drive it with a single Raspberry Pi. By not using the Raspberry Pi only as a media player, but as a projection mapping system. At last.&lt;/p&gt;
+
+&lt;p&gt;Peter, the projectionist from the Dublin Castle, did the positioning and targeting of the projector. He was very interested in the fact that Raspberry Pi can be used for almost anything including projection mapping. Peter approved the Raspberry Pi based projection mapping setup as a clever one.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mir.rijnieks.com/postimages/projector-setup.jpg&#34; alt=&#34;Projector setup&#34; /&gt;
+&lt;img src=&#34;http://mir.rijnieks.com/postimages/peter-and-the-raspberry.jpg&#34; alt=&#34;Peter and the Raspberry Pi&#34; /&gt;
+&lt;img src=&#34;http://mir.rijnieks.com/postimages/projector-targeting.jpg&#34; alt=&#34;Projector targeting&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After setting up the projector, it was my turn to show what the most affordable projection mapping system in the world is capable of. I have made a data-driven animation by loading images from the Chester Beatty collection real-time. I did not have too much time for preparing it, I tried my best to make it look decent, efficient in terms of performance.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mir.rijnieks.com/postimages/projection-mapping.jpg&#34; alt=&#34;Projection mapping&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is an image that proves the use of a Raspberry Pi. The four logos on the top left corner. Yes. These are the four cores of the Raspberry Pi processor. The rest is Linux. One should be grateful in front of Linus T. and everybody else who has contributed to the system.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mir.rijnieks.com/postimages/raspberry-pi.jpg&#34; alt=&#34;Raspberry Pi&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The other part of the day I spend improving on code. It usually works like this. Solutions from past projects. And a pinch of creativity in terms of variation. Allways trying out something that you have never done before. This time I mostly tried things related to organizing code. I am looking forward to add the visual creativity part tomorrow.&lt;/p&gt;
+
+&lt;p&gt;It seemed that everybody was sattisfied with the result. People got twice as friendly and it was time for the interview part of a movie the Chester Beatty Library is making for the Maker in Residence program. Looking forward to see it.&lt;/p&gt;
+
+&lt;p&gt;Now. Some preparations for tomorrow. I want to add more depth to the existing solution as right now the transitions and movement of the image can be characterized as aggressive whish I do not want to be so. See you tomorrow at the Chester Beatty Library at 18:00 for the opening of the installation and one shalt see.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Day Ten</title>
