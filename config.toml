@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Maker in Residence"
-baseurl = "http://mir.rijnieks.com/"
+baseurl = "https://mir.rijnieks.com/"
 
 theme = "hyde"
 
